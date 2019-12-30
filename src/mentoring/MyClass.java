@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class MyClass {
     public static void main(String[] args) {
-        /*System.out.println("Hello world");
-        First java Program */
+        System.out.println("Hello world");
+       // First java Program
 
-        /*int i= 123;
+        int i= 123;
         double a= 100.25;
         String s= "Hello";
         char c='A';
         boolean b = true;
-        System.out.println("My Value is"+" "+i+" "+ a+" "+" "+s);*/
+        System.out.println("My Value is"+" "+i+" "+ a+" "+" "+s);
 //Casting
 
         //int myInt=9;
